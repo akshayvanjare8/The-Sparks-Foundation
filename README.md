@@ -1,4 +1,7 @@
-# The-Sparks-Foundation
+# The-Sparks-Foundation 
+
+![1548391134646](https://user-images.githubusercontent.com/72245329/129060423-cbc6ac15-1738-4691-bed2-664a6ad797e6.jpg)
+
 
 ## Data Science & Business Analytics Tasks
 
